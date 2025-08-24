@@ -1,13 +1,13 @@
+<h1 align="center">Calculator</h1>
+<p align="center">This is simple calculator with GUI</p>
+
 <div align="center">
-<h1>Calculator</h1>
-<p>This is simple calculator with GUI</p>
-
-<img src="img.png" alt="img.png">
-
+    <img src="img.png" alt="img.png">
+</div>
 <h2 align="center">🚀 Install</h2>
 
-<h3>📄 From sources</h3>
-<ol style="list-style-position: inside; text-align: center;">
+<h3 align="center">📄 From sources</h3>
+<ol>
     <li>Clone repository:
         <pre><code>git clone https://github.com/ProgrammDuck/GUICalculator.git</code></pre>
     </li>
@@ -19,12 +19,21 @@
     </li>
 </ol>
 
-<h3>⚡ From releases</h3>
+<h3 align="center">⚡ From releases</h3>
 <ol>
     <li>Go to the <a href="https://github.com/ProgrammDuck/GUICalculator/releases">Releases</a> page on GitHub</li>
     <li>Download the latest release for your system (.exe for Windows or archive for other OS).</li>
     <li>Extract (if it's an archive) and run the .exe file.</li>
 </ol>
+
+<h2 align="center">📝 Work example</h2>
+<ol>
+    <li>EuREsjpQDi</li>
+    <li>4082307491</li>
+    <li>:\!'%[*'&lt;</li>
+    <li><code>`#KIy6`rKmR</code></li>
+</ol>
+
 
 <h2 align="center">📞 Support</h1>
 <table align="center">
@@ -85,4 +94,3 @@
     </td>
   </tr>
 </table>
-</div>
