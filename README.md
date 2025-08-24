@@ -12,7 +12,7 @@
         <pre><code>git clone https://github.com/ProgrammDuck/GUICalculator.git</code></pre>
     </li>
     <li>Change Directory
-        <pre><code>cd PasswordGenerator\\</code></pre>
+        <pre><code>cd GUICalculator\</code></pre>
     </li>
     <li>Start programm
         <pre><code>py main.py</code></pre>
